@@ -1,0 +1,12 @@
+C:\Egov\Kursach\v1\STO\STOListImplement\bin\Debug\netstandard2.0\STOListImplement.deps.json
+C:\Egov\Kursach\v1\STO\STOListImplement\bin\Debug\netstandard2.0\STOListImplement.dll
+C:\Egov\Kursach\v1\STO\STOListImplement\bin\Debug\netstandard2.0\STOListImplement.pdb
+C:\Egov\Kursach\v1\STO\STOListImplement\bin\Debug\netstandard2.0\STOBusinessLogic.dll
+C:\Egov\Kursach\v1\STO\STOListImplement\bin\Debug\netstandard2.0\STOBusinessLogic.pdb
+C:\Egov\Kursach\v1\STO\STOListImplement\obj\Debug\netstandard2.0\STOListImplement.csprojAssemblyReference.cache
+C:\Egov\Kursach\v1\STO\STOListImplement\obj\Debug\netstandard2.0\STOListImplement.csproj.CoreCompileInputs.cache
+C:\Egov\Kursach\v1\STO\STOListImplement\obj\Debug\netstandard2.0\STOListImplement.AssemblyInfoInputs.cache
+C:\Egov\Kursach\v1\STO\STOListImplement\obj\Debug\netstandard2.0\STOListImplement.AssemblyInfo.cs
+C:\Egov\Kursach\v1\STO\STOListImplement\obj\Debug\netstandard2.0\STOListImplement.csproj.CopyComplete
+C:\Egov\Kursach\v1\STO\STOListImplement\obj\Debug\netstandard2.0\STOListImplement.dll
+C:\Egov\Kursach\v1\STO\STOListImplement\obj\Debug\netstandard2.0\STOListImplement.pdb
