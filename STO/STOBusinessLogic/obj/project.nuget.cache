@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "owSMG18vmYRAfJAAGuE61EoBRJmE/k4tJH/dkVHVVmKbmtghQdZ9Dm3a+7R4mnDgWlf8hw4/TQkv7b8lXwBsSw==",
+  "success": true,
+  "projectFilePath": "C:\\Egov\\Kursach\\v3\\STO\\STOBusinessLogic\\STOBusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
