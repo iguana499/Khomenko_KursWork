@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Kk+6/62I/C+hfnV0IRH9NxaPgLU5mOco5agK5w7xyJDpF2J/H1nU4pzCd4WNK/D853l36IV7+bhkEUUssVNNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Egov\\Kursach\\v4\\STO\\STOListImplement\\STOListImplement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
