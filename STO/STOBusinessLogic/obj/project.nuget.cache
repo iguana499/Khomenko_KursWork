@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSog745DpV2BPKF3n6ZbOFTu8zs2PFSSuse2opdYBZaIGenvV35+CIyRs6X/cJxTP6q/OjustB1xR0rc+2J0VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Egov\\Kursach\\v5\\STO\\STOBusinessLogic\\STOBusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\documentformat.openxml\\2.10.0\\documentformat.openxml.2.10.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
